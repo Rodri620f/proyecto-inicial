@@ -44,17 +44,17 @@ body {
 
 /* Sección de posts */
 .posts article h2 {
-    margin-top: 0;
+    margin-top: 0; /* elimina margen superior del título de post */
 }
 
 /* Links */
 a {
-    color: #007BFF;
-    text-decoration: none;
+    color: #00ff00; /* color de los enlaces */ 
+    text-decoration: none; /* elimina el subrayador de los enlaces */
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline; /* surbaya los enlaces al pasar el mouse */
 }
 
 /* Footer */
