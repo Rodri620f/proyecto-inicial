@@ -59,16 +59,15 @@ a:hover {
 
 /* Footer */
 .footer {
-    background-color: rgb(10, 255, 2);
+    background-color: rgba(30, 32, 30, 0.966);
     color: rgba(255, 255, 255, 0.966);
     text-align: center;
     padding: 15px 0 20px 20px;
     margin-top: 20px;
 }
 .a {
-    color: rgba(250, 163, 1, 0.521);
-    border: 2px solid rgba(9, 160, 165, 0.521);
+    color: rgba(9, 250, 1, 0.521);
     padding: 10px 10px;
-    border-radius: 1%
+    border-radius: 1%;
 
 }
